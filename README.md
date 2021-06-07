@@ -1,1 +1,1 @@
-First repoof the first task of the ALX school project.
+First repo of the first task of the ALX school project.
